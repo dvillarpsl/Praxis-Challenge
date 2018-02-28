@@ -11,3 +11,4 @@
 1. Explain your tests using some business language framework
 2. Include your tests on the same folder that you have your FE / BE code
 3. Make your tests based on the requirements that you made on the class T2 - Requirements
+4. Test your own exposed application (If you have it on heroku or another server)
